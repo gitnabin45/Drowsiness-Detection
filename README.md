@@ -8,9 +8,8 @@ we determine whether the eyes are open or they are closed.</br></br>
 
 
 <h3>The working of the project</h3>
-<ul><li>As you can see the<b> above screenshot</b> where the landmarks aredetected using the detector.
+<ul><li>As you can see the<b> below screenshot</b> where the landmarks aredetected using the detector.
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
-<li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
 <p><img src="https://github.com/gitnabin45/Drowsiness-Detection/blob/main/screenshots/active.png">
 <img src="https://github.com/gitnabin45/Drowsiness-Detection/blob/main/screenshots/drowsy.png" align="center" height="350">
 <img src="https://github.com/gitnabin45/Drowsiness-Detection/blob/main/screenshots/sleepy.png" align="center" height="350">
